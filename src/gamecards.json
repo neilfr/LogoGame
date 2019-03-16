@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "A",
+    "clicked": false
+  },
+  {
+    "id": 1,
+    "name": "B",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "C",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "D",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "E",
+    "clicked": false
+  }
+]
