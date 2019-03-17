@@ -9,8 +9,11 @@ class GameCard extends Component {
         onClick={() => this.props.cardClickHandler(this.props.id)}
       >
         <div className="card-body">
+          <img src={this.props.image} alt="" />
+          {/* for debugging only
           <h1>{this.props.name}</h1>
-          <h2>{this.props.id}</h2>
+          <h2>{this.props.id}</h2> 
+          */}
         </div>
       </div>
     );

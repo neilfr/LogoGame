@@ -2,26 +2,187 @@
   {
     "id": 0,
     "name": "A",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/chicago-blackhawks.png",
     "clicked": false
   },
   {
     "id": 1,
     "name": "B",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/colorado-avalanche.png",
     "clicked": false
   },
   {
     "id": 2,
     "name": "C",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/dallas-stars.png",
     "clicked": false
   },
   {
     "id": 3,
     "name": "D",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/minnesota-wild.png",
     "clicked": false
   },
   {
     "id": 4,
     "name": "E",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/nashville-predators.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "F",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/st-louis-blues.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "G",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/winnipeg-jets.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "H",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/anaheim-ducks.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "I",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/arizona-coyotes.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "J",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/calgary-flames.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "K",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/edmonton-oilers.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "L",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/los-angeles-kings.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "M",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/san-jose-sharks.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "N",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/vancouver-canucks.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "O",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/vegas-golden-knights.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "P",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/boston-bruins.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Q",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/buffalo-sabres.png",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "name": "R",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/detroit-red-wings.png",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "name": "S",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/florida-panthers.png",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "name": "T",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/montreal-canadiens.png",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "name": "U",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/ottawa-senators.png",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "name": "V",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/tampa-bay-lightning.png",
+    "clicked": false
+  },
+  {
+    "id": 22,
+    "name": "W",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/toronto-maple-leafs.png",
+    "clicked": false
+  },
+  {
+    "id": 23,
+    "name": "X",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/carolina-hurricanes.png",
+    "clicked": false
+  },
+  {
+    "id": 24,
+    "name": "Y",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/columbus-blue-jackets.png",
+    "clicked": false
+  },
+  {
+    "id": 25,
+    "name": "Z",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/new-jersey-devils.png",
+    "clicked": false
+  },
+  {
+    "id": 26,
+    "name": "AA",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/new-york-islanders.png",
+    "clicked": false
+  },
+  {
+    "id": 27,
+    "name": "AB",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/new-york-rangers.png",
+    "clicked": false
+  },
+  {
+    "id": 28,
+    "name": "AC",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/philadelphia-flyers.png",
+    "clicked": false
+  },
+  {
+    "id": 29,
+    "name": "AD",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/pittsburgh-penguins.png",
+    "clicked": false
+  },
+  {
+    "id": 30,
+    "name": "AE",
+    "image": "https://images.rogersdigitalmedia.com/www.sportsnet.ca/team_logos/200x200/hockey/nhl/washington-capitals.png",
     "clicked": false
   }
 ]
