@@ -4,7 +4,7 @@ class Title extends Component {
   render() {
     return (
       <div>
-        <h1>Clicky Game!</h1>
+        <h1>Logo Memory Game!</h1>
       </div>
     );
   }

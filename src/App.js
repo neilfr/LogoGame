@@ -13,6 +13,7 @@ class App extends Component {
     super();
     this.state = {
       gamecards: gamecards,
+      clicked: [],
       status: "New Game!",
       score: 0
     };
@@ -44,7 +45,9 @@ class App extends Component {
 
     // if the card was already clicked, reset the game, otherwise, set its clicked property to true, shuffle and keep playing
     if (tempArray[x].clicked) {
-      tempArray = JSON.parse(JSON.stringify(foo));
+      tempArray = this.state.gamecards.map(card =>
+        Object.assign({ ...card }, { clicked: false })
+      );
       if (this.state.score > highscore) {
         highscore = this.state.score;
       }
